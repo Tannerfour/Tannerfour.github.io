@@ -1,0 +1,22 @@
+header {
+  height: 50px;
+  background: darkred;
+  text-align: left;
+  color: darkgrey;
+}
+
+body {
+  background: darkgrey; 
+  color: darkred;
+}
+
+img {
+  height: 225px;
+  border: 2px solid black;
+  float: left;
+  margin-right: 20px
+}
+
+h3 {
+ color: Black; 
+}
